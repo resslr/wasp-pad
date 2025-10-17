@@ -10,8 +10,14 @@ This is my journal of the design and building process of **WaspPad**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/581).
 
 
-## 10/17/2025 - Initalized the Project  
+## 10/17/2025 3 PM - Initalized the Project  
 
 To attempt this project I will fully document my learning process in a written notepad and thoroughly explain every GitHub commit. I hope by the end of this process to have succesfully learned how to create my own PCB board and learn the basics of electrical engineering and it's pairing with Computer Science.![j1.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--c72dd99aace49d878bb674dac0aa62662a9d106d/j1.jpeg)
+  
+
+## 10/17/2025 7 PM - Wired and Created the Schematics  
+
+This was a lengthy process but I think it was an enlightening part of the learning curve. I personally enjoyed it and learned a lot, definetly boosting my confidence in working with the KiCad software. Now that the actual schematics are done I am going to work in the PCB Editor mode to get the PCB board modeled. As always the physical journal piece is attatched, I have also attatched the progress photo.![IMG_2204.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--4fce963dd6614c3c913c03209b5743370da5fe4c/IMG_2204.JPG)
+![prog1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c005eea9fe1bba2de660fdd85b904ad46c5edd6/prog1.png)
   
 
