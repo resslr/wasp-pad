@@ -28,3 +28,11 @@ When I was first creating the Schematics I noticed I had none of the default sym
 I installed the kicad-library-git AUR package and then went from Manage Symbol Libraries --> Folder Icon --> opened /usr/share/kicad/symbols/ and then selected every folder via CTRL+A, this sped up time and got all of the symbols in at once rather than manually importing, a step I highly recommend to be followed. I later encountered the same issue with footprints when they had to be assigned so to resolve the issue I took the same steps but with the footprint editor, which was only available in the main screen rather than being an option in the Preferences when the Schematic Editor is open. When you do the footprint step make sure to click the dropdown next to the folder and import the "KiCad (folder with *.kicad_mod files).![resolve.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgwNywicHVyIjoiYmxvYl9pZCJ9fQ==--2b78be4436807596301f8cdacdf46a03c92c3750/resolve.png)
   
 
+## 10/17/2025 10 PM - PCB Completed  
+
+I have completed the design of the PCB Board and the wiring, however there are some warnings from the Design Rules Checker (mostly clipped silkscreens), I will investigate these warnings and try to solve them. For now, to show progress I have attatched the photos of how it is progressing alongside my physical journal.
+
+After investigation![prog.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzNywicHVyIjoiYmxvYl9pZCJ9fQ==--374d9ed9af19dbd0966304ef42b1b2691006f9af/prog.jpeg)
+:
+The errors were caused by the top part being outside of the main boundaries which is an intentional decision for the USB Port. The PCB design itself is now finished, the file will be uploaded accordingly to GitHub.  
+
